@@ -10454,7 +10454,7 @@ a.nav-box:hover .widget-heading.right .sub-title, .nav-box a .widget-heading.rig
     color: #333;
 }
 .pub-item .pub-thumbnail {
-    border: 1px solid #979797;
+    border: 0px solid #979797;
 }
 .pub-item .title {
     font-size: 14px;
