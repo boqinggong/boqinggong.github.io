@@ -10490,7 +10490,7 @@ a.nav-box:hover .widget-heading.right .sub-title, .nav-box a .widget-heading.rig
 .pub-item .description .citation, .pub-item .description .citation a {
     font-style: italic;
     color: #9d9d9d;
-    max-width: 70%;
+    max-width: 90%;
 }
 .pub-item .description .citation {
     margin-bottom: 20px;
@@ -11042,14 +11042,14 @@ select.form-control {
     margin-left: 5px;
 }
 .ol-timeline .tl-item.pub-item.with-thumb .elem-wrapper {
-    width: 86px;
-    height: 116px;
+    width: 76px;
+    height: 86px;
 }
 .ol-timeline .tl-item.pub-item.with-thumb .elem-wrapper img {
     height: 100%;
 }
 .ol-timeline .tl-item.pub-item.with-thumb .content-wrapper {
-    margin-left: 100px;
+    margin-left: 0px;
 }
 .ol-timeline .tl-item.pub-item.with-thumb .item-section {
     top: 48px;
@@ -11243,7 +11243,7 @@ select.form-control {
     font-weight: 700;
 }
 .ol-timeline-tab .tl-content .description {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     line-height: 22px;
 }
 .ol-timeline-tab .tl-item {
