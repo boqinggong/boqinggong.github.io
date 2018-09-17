@@ -10493,7 +10493,7 @@ a.nav-box:hover .widget-heading.right .sub-title, .nav-box a .widget-heading.rig
     max-width: 90%;
 }
 .pub-item .description .citation {
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 .pub-item .description .citation a {}
 .pub-item .description .citation a:hover, .pub-item .description .citation a:focus {
@@ -11023,7 +11023,7 @@ select.form-control {
 .ol-timeline .tl-item {
     position: relative;
     margin-left: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 .ol-timeline .tl-item:before {
     content: '';
@@ -11043,7 +11043,7 @@ select.form-control {
 }
 .ol-timeline .tl-item.pub-item.with-thumb .elem-wrapper {
     width: 76px;
-    height: 86px;
+    height: 106px;
 }
 .ol-timeline .tl-item.pub-item.with-thumb .elem-wrapper img {
     height: 100%;
