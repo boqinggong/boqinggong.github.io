@@ -10459,7 +10459,7 @@ a.nav-box:hover .widget-heading.right .sub-title, .nav-box a .widget-heading.rig
 .pub-item .title {
     font-size: 14px;
     color: #636363;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-weight: bold;
     font-weight: 700;
 }
@@ -11023,7 +11023,7 @@ select.form-control {
 .ol-timeline .tl-item {
     position: relative;
     margin-left: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .ol-timeline .tl-item:before {
     content: '';
